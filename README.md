@@ -8,7 +8,7 @@ The "Guess the Number" project is an interactive web game where players try to g
 - User input for guessing the number.
 - Instant feedback on guesses (correct or incorrect).
 - Score tracking with a decrementing score system.
-- Visually appealing design with glassmorphism and Halloween-themed animations.
+- Visually appealing design with glassmorphism and animations.
 
 ## Technologies Used
 - HTML
@@ -24,7 +24,7 @@ To run the project locally, follow these steps:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd guess-the-number
+   cd guess_the_number_using_javascript
    ```
 3. Open `index.html` in your web browser.
 
